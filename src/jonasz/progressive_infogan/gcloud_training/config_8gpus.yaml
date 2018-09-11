@@ -1,0 +1,5 @@
+trainingInput:
+  scaleTier: CUSTOM
+  masterType: complex_model_l_gpu
+  workerCount: 0
+  parameterServerCount: 0

@@ -1,0 +1,8 @@
+*.pyc
+*.swp
+*.swo
+src/dist/*
+src/*.egg-info/
+.ipynb_checkpoints
+frozen_inception_v1_2015_12_05.tar.gz
+src/jonasz/notebooks/progressive_infogan_models_master_WIP
