@@ -96,7 +96,6 @@ def training_params(is_gcloud=False, output_dir=None):
       norm_per_gpu            = True,
       double_conv             = True,
       second_conv_channels_x2 = True,
-      fromrgb_use_n_img_diffs = 2,
       #  elastic_block_input     = True,
       #  infogan_max_pool        = True,
     ),
